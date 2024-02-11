@@ -1,0 +1,11 @@
+Global values are user specific values tores in .giconfig:
+git config --global user.name = "Jane"
+git config -- global user.email "jane@github.taining.com"
+
+Git Operations:
+git checkout <name_of_branch>
+git merge <name_of_the_branch_I_want_to_merge>
+
+git branch => creates new branch
+git fetch => ????
+git diff => diff between commit, branchs etc;
