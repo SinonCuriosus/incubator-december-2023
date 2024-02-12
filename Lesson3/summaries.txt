@@ -1,0 +1,2 @@
+Question: Why don't we use RESTCONF to communicate directly with the routers?
+Answer: REST ~ Stateless; Connection less, so god bless us to be capable do to all the changes;
