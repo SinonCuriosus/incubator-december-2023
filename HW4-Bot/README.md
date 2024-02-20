@@ -1,23 +1,4 @@
 ## README for Webex Bot
-
-### Setup Instructions:
-
-To run the bot without issues, follow these steps:
-
-1. Download and install ngrok from [https://ngrok.com/download](https://ngrok.com/download).
-
-2. Run ngrok to expose your local server to the internet:
-    ```
-    ngrok http 4111
-    ```
-
-3. Start the Webex bot using the following command:
-    ```
-    python webex-bot-ngrok.py
-    ```
-
-4. Search for `benficafan@webex.bot` on Webex and start a conversation.
-
 ### Issue Resolution:
 
 - We faced difficulties running the bot using the method suggested by Tumul. To resolve this, Sandro and I raised a ticket [here](https://github.com/fbradyirl/webex_bot/issues/48). Additionally, Gerard reached out to Tumul to seek further assistance.
@@ -52,4 +33,4 @@ The bot behaves as follows:
 
 ### Bot Conversation:
 
-![Bot Conversation](<IMAGE_URL>)
+![Bot Conversation](<HW4-Bot/BotConversation.png>)
