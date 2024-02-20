@@ -7,19 +7,21 @@
 
 To interact with the bot, you will need to follow these steps:
 
-1. **Two Shell Sessions:** Open two shell sessions.
+1. **Download and install ngrok:** from [https://ngrok.com/download](https://ngrok.com/download).
 
-2. **First Shell:** Run ngrok to expose port 4111:
+2. **Two Shell Sessions:** Open two shell sessions.
+
+3. **First Shell:** Run ngrok to expose port 4111:
     ```
     ngrok http 4111
     ```
 
-3. **Second Shell:** Start the Webex bot:
+4. **Second Shell:** Start the Webex bot:
     ```
     python webex-bot-ngrok.py
     ```
 
-4. **Webex Search:** Search for `benficafan@webex.bot` on Webex and initiate a conversation.
+5. **Webex Search:** Search for `benficafan@webex.bot` on Webex and initiate a conversation.
 
 ### Bot Behavior:
 
