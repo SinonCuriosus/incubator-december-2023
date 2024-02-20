@@ -29,7 +29,7 @@ The bot behaves as follows:
 
 - **Correct Club Name:** If the person mentions the name of the club correctly (e.g., "Benfica"), the bot responds with the last result and details about the match (e.g., who won and where the match was played).
 
-- **Incorrect Input:** If the person's input does not match the expected club name, the bot explains its purpose (e.g., similar to Yahoo).
+- **Incorrect Input:** If the person's input does not match the expected club name, the bot explains its purpose (e.g. just try saying Yahoo).
 
 ### Bot Conversation:
 
