@@ -54,4 +54,4 @@ The bot behaves as follows:
 
 ### Bot Conversation:
 
-![Bot Conversation](https://github.com/SinonCuriosus/incubator-december-2023/blob/main/HW4-Bot/BotConversation.png?raw=true)
+![Bot Conversation](<IMAGE_URL>)
