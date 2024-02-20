@@ -33,4 +33,4 @@ The bot behaves as follows:
 
 ### Bot Conversation:
 
-![Bot Conversation](<HW4-Bot/BotConversation.png>)
+![Bot Conversation](<https://github.com/SinonCuriosus/incubator-december-2023/blob/cf79a76f5997e61b47d2b0e0c2eedacb8995fe4e/HW4-Bot/BotConversation.png>)
