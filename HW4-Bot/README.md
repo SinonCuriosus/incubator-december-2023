@@ -20,8 +20,6 @@ To run the bot without issues, follow these steps:
 
 ### Issue Resolution:
 
-If you encounter any issues running the bot, please refer to the following:
-
 - We faced difficulties running the bot using the method suggested by Tumul. To resolve this, Sandro and I raised a ticket [here](https://github.com/fbradyirl/webex_bot/issues/48). Additionally, Gerard reached out to Tumul to seek further assistance.
 
 ### Homework Assignment:
